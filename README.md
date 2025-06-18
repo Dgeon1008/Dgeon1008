@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:1A1A1A&text=Dong-Geon%20Kim&fontColor=#AAAAAA&fontSize=60&height=200&section=header&textAlign=right)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF4C4C,100:222222&text=Dong-Geon%20Kim&fontColor=#AAAAAA&fontSize=50&height=250&section=header&textAlign=right)
 
 ## 📬 Contact
 📧 Email: dcode0971@gmail.com  
