@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:1A1A1A&text=Dong-Geon%20Kim&fontColor=DDDDDD&fontSize=50&height=200&section=header&textAlign=right)
 
-## 📬 Contact
-📧 Email: dcode0971@gmail.com  
-📱 Phone: 010-3238-0971
-
 
 ## Profile
 📧 **Email** | dcode0971@gmail.com <br />
