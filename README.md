@@ -1,16 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:1A1A1A&text=Dong-Geon%20Kim&fontColor=DDDDDD&fontSize=50&height=200&section=header&textAlign=right)
 
+<h3>📬 <u><b>Contact</b></u></h3>
 📧 **Email** | dcode0971@gmail.com <br />
 📞 **Phone** | 010-3238-0971 <br />
 
 
-
-
 ![Dgeon1008's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dgeon1008&show_icons=true&theme=transparent) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dgeon1008&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<br /><br />
-
+<br />
 
 
 <h3>✨ Tech Stack ✨</h3>
