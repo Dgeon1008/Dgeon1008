@@ -4,7 +4,6 @@
 
 
 
-https://github.com/Dgeon1008 <br /><br />
 ![Dgeon1008's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dgeon1008&show_icons=true&theme=transparent) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dgeon1008&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
